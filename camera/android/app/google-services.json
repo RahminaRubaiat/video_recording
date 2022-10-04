@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "177420826615",
+    "project_id": "video-capture-26579",
+    "storage_bucket": "video-capture-26579.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177420826615:android:0e95ad24ceb2b4c801a0f2",
+        "android_client_info": {
+          "package_name": "com.example.camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177420826615-t5s6q2e8h0qh7dciruhv7vrp6skg2b3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4a4wI2YcC6b-JXB1sEBfTUpFv9lyAbM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177420826615-t5s6q2e8h0qh7dciruhv7vrp6skg2b3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
